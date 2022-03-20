@@ -1,0 +1,15 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+python_src/__pycache__/*
+*/.ipynb_checkpoints/*
+sample_data
+build
+*.jpg
+*.mat
+*.pkl
+*.so
+*.cprof
+tmp
+*.png
+*.gif
+*.lp
+.nfs*

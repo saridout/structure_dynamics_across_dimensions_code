@@ -1,0 +1,8 @@
+*.[oa]
+*.out
+*.swp
+*~
+local/*
+/Doc/*
+/Junk/*
+/scratch/*

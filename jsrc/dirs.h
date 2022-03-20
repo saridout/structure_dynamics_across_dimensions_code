@@ -1,0 +1,5 @@
+#define SAR_STATE_DIR "/home1/ridout/states/"
+#define SPATINET_DIR "/home1/ridout/sylvain/"
+#define SAR_DATA_DIR "/home1/ridout/data/"
+#define CPG_STATE_DIR "/data1/shared/carl/state_database/"
+#define JAMES_STATE_DIR "/home1/ridout/states/james/"

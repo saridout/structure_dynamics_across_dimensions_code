@@ -1,0 +1,5 @@
+#ifndef SOFTNESS_HPP
+#define SOFTNESS_HPP
+
+
+#endif //SOFTNESS_HPP
